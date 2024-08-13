@@ -1,0 +1,16 @@
+section {
+  margin: 50px 0;
+  img {
+    width: 50%;
+  }
+
+  .date {
+    font-size: medium;
+  }
+
+  .technologies {
+    img {
+      width: 50px;
+    }
+  }
+}
